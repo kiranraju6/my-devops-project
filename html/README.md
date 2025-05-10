@@ -13,6 +13,10 @@ Replace <your-dockerhub-username> with your Docker Hub username and <tag> with t
 
 ---
 
+## Create Kubernetes EKS Cluster
+
+---
+
 ## Create Kubernetes Deployment and Service Manifest Files
 - Next, you’ll need to create Kubernetes manifest files to define the deployment and expose the services. These files will pull the images you’ve just pushed to Docker Hub.
 
