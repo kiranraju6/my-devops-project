@@ -23,6 +23,11 @@ Run the Docker Container
 ```
 docker run -itd -p 3000:3000 node-js:latest
 ```
+Run the Docker Container with name
+```
+
+```
+
 Access the Application
 Open your browser and visit:
 ```
